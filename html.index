@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Codex Oracle | Digital Innovator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Codex Oracle</h1>
+    <p>Techpreneur | Blockchain Dev | AI Specialist</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>I turn ideas into intelligent systems. With years of experience in Web Development, Game Design, and Blockchain, I build tools that work and wow.</p>
+  </section>
+
+  <section class="skills">
+    <h2>Skills & Tools</h2>
+    <ul>
+      <li>Web Development (HTML, CSS, JS, React)</li>
+      <li>Blockchain & Smart Contracts</li>
+      <li>Crypto Payment Integration</li>
+      <li>Game Development</li>
+      <li>AI / GPT Integration</li>
+    </ul>
+  </section>
+
+  <section class="projects">
+    <h2>Portfolio Highlights</h2>
+    <ul>
+      <li>Mining Pool Dashboard with 10% Yield</li>
+      <li>Own Land on Mars – Game Development</li>
+      <li>PayPal / Cash App / Coinbase API Integration</li>
+      <li>Custom Chatbot with ETH-Powered Transactions</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Let’s Work</h2>
+    <p>Want to hire me? <a href="https://www.fiverr.com">Visit my Fiverr Profile</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Codex Oracle. All rights reserved.</p>
+  </footer>
+</body>
+</html>
